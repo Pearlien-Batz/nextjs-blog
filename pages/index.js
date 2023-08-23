@@ -16,7 +16,7 @@ export default function Home({ allPostsData }) {
         <p>Hi! 👋 Thank you for stopping by!</p>
         <p>
           We're here to enjoy labs, how-tos, and docs.{' '}
-          <a href="http://localhost:3000/posts/active-directory">our next walkthrough.</a>.
+          <a href="https://wonderfulalien.me/posts/active-directory">our next walkthrough.</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
