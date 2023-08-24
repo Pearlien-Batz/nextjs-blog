@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 import Navbar from './Navbar';
 
-const name = 'The wonderfulalien Foundation';
+const name = 'wonderfulalien';
 export const siteTitle = 'wonderfulalien.me';
 
 export default function Layout({ children, home }) {
