@@ -1,6 +1,6 @@
 ---
 title: 'Directory Service - Coming Soon'
-date: 'TBD'
+date: '2023-08-23'
 ---
 
 Researching directory services. 
