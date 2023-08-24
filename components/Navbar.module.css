@@ -1,0 +1,25 @@
+/* Navbar.module.css */
+.navbar {
+  background-color: #333;
+  height: 40px; /* Set the desired height for the navbar */
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  margin-bottom: 30px;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center; /* Vertically center the items within the navbar */
+}
+
+.navItem {
+  margin: 0 15px; /* Add horizontal margin for spacing between items */
+}
+
+/* Style the links */
+.navItem a {
+  text-decoration: none;
+  color: white;
+}
